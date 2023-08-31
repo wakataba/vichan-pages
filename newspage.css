@@ -1,0 +1,36 @@
+h2 {
+  color: inherit;
+  font-size: 11pt;
+  margin: 0;
+  padding: 0;
+}
+
+div.outerbox {
+    background: white;
+    border: 1px solid black;
+    max-width: 700px;
+    color: black !important;
+    margin: 30px auto;
+}
+
+div.innerbox {
+    background: #98E;
+    color: black;
+    font-size: 12pt;
+}
+
+div.innerbox h2 {
+       padding: 3px 7px;
+}
+
+div.news {
+    padding: 6px 7px;
+}
+h2.titlenew {
+    background: #eef2ff;
+    border: 1px solid #b7c5d9;
+    font-size: 116%;
+    padding: 0.5em;
+}
+
+/*paste this CSS line into your style.css, also remove this line when youre done if you want to*/
