@@ -4,7 +4,7 @@ remodelling vichan templates that is if i have motivation
 these stuff are super easy to do if you have basic html and css knowledge, i recommend making one by yourself.
 
 -- list to do
-- ~~basic page to look like 4chan's newspage ~~
+- >basic page to look like 4chan's newspage(DONE)
 - frameset & categories sidebar to make it feel kusaba x/4chanish
 - boardbanners
 - maybe revamp index
