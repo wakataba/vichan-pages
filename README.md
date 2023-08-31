@@ -1,5 +1,6 @@
 # vichan-pages
 remodelling vichan templates that is if i have motivation
+## MAKE SURE YOU READ THE TOP OF THE CODE LINES BEFORE USING
 
 these stuff are super easy to do if you have basic html and css knowledge, i recommend making one by yourself.
 
