@@ -1,3 +1,4 @@
+/*paste this CSS line into your style.css, also remove this line when youre done if you want to, also do.*/
 h2 {
   color: inherit;
   font-size: 11pt;
@@ -32,5 +33,3 @@ h2.titlenew {
     font-size: 116%;
     padding: 0.5em;
 }
-
-/*paste this CSS line into your style.css, also remove this line when youre done if you want to*/
