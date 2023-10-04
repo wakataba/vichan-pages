@@ -6,10 +6,11 @@ these stuff are super easy to do if you have basic html and css knowledge, i rec
 
 -- list to do
 - >basic page to look like 4chan's newspage (DONE)
-- frameset & categories sidebar to make it feel kusaba x/4chanish
-- boardbanners
+- frameset & categories sidebar to make it feel kusaba x/4chanish (YOTSUBA B ONLY)
+- boardbanners 
 - maybe revamp dashboard
 - public banlist
+- recent posts [modlog]
 
 this is unnecessary but i do it
 
